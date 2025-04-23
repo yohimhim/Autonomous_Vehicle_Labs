@@ -1,0 +1,8 @@
+"./Timer.obj"
+"./button.obj"
+"./lab4_template.obj"
+"./lcd.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../libcybotUART.lib"
+"../tm4c123gh6pm.cmd"
+-llibc.a
